@@ -38,7 +38,7 @@ interface badgesProps extends React.ComponentProps<"div">, VariantProps<typeof b
 
 
 
-export default function badge({
+export default function Badge({
     variant,
     size,
     className,
